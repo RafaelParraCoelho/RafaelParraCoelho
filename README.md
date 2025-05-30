@@ -23,7 +23,7 @@ I'm Rafael Parra Coelho
 
 ## 📫 How to Reach Me
 
-- 💼 [LinkedIn Profile]((https://www.linkedin.com/in/rafael-parra-coelho-8054532a8/))
+- 💼 [LinkedIn Profile](https://www.linkedin.com/in/rafael-parra-coelho-8054532a8/)
 
 Thanks for stopping by! 🚀
 
