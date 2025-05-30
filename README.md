@@ -19,11 +19,4 @@ I'm Rafael Parra Coelho
 - **Cloud**: Google Cloud Platform (BigQuery, Cloud Storage)
 - **Other**: Git, Docker, Linux
 
----
-
-## 📫 How to Reach Me
-
-- 💼 [LinkedIn Profile](https://www.linkedin.com/in/rafael-parra-coelho-8054532a8/)
-
-Thanks for stopping by! 🚀
 
