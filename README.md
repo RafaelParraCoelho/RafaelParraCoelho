@@ -1,6 +1,6 @@
 Hello there 👋
 
-I'm Rafael
+I'm Rafael Parra Coelho
 
 🎓 Aspiring Data Engineer | 💻 Python & SQL Enthusiast | ☁️ Learning Cloud & Big Data Tools 
 
@@ -16,7 +16,6 @@ I'm Rafael
 🔧 Tech Stack
 
 - **Languages**: Python, SQL, JS, HTML, CSS, C, C++
-- **Data Tools**: Pandas, Apache Airflow, Apache Spark
 - **Databases**: PostgreSQL, MongoDB
 - **Cloud**: Google Cloud Platform (BigQuery, Cloud Storage)
 - **Other**: Git, Docker, Linux
