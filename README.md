@@ -24,7 +24,6 @@ I'm Rafael Parra Coelho
 
 ## 📫 How to Reach Me
 
-- 📧 [rparracoelho@gmail.com]
 - 💼 [LinkedIn Profile]((https://www.linkedin.com/in/rafael-parra-coelho-8054532a8/))
 
 Thanks for stopping by! 🚀
