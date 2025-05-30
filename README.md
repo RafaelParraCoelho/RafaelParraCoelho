@@ -7,7 +7,7 @@ I'm Rafael Parra Coelho
 🚀 About Me
 
 - 🎓 I'm currently pursuing a Bachelor's degree in Information Systems and learning to become a Data Engineer.
-- 🧩 I'm currently diving into the world of **Data Engineering**
+- 🧩 Diving into the world of **Data Engineering**
 - 🐍 I code mostly in **Python**, with strong skills in **SQL**
 - 🛠️ Learning tools like **Airflow**, **Spark**, **PostgreSQL**, and **BigQuery**
 - 📚 Always learning something new and working on real-world projects
