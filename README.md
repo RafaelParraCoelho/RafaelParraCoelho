@@ -2,7 +2,7 @@ Hello there 👋
 
 I'm Rafael Parra Coelho
 
-🎓 ##Aspiring Data Engineer | 💻 Python & SQL Enthusiast | ☁️ Learning Cloud & Big Data Tools##
+🎓 Aspiring Data Engineer | 💻 Python & SQL Enthusiast | ☁️ Learning Cloud & Big Data Tools
 
 🚀 About Me
 
