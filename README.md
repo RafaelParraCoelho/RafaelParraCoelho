@@ -13,7 +13,7 @@ I'm Rafael Parra Coelho
 - 📚 Always learning something new and working on real-world projects
 
 🔧 Tech Stack
-
+ 
 - **Languages**: Python, SQL, JS, HTML, CSS, C, C++
 - **Databases**: PostgreSQL, MongoDB
 - **Data Tools**: Pandas
