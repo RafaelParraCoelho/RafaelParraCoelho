@@ -16,8 +16,8 @@ I'm Rafael Parra Coelho
  
 - **Languages**: Python, SQL, JS, HTML, CSS, C, C++
 - **Databases**: PostgreSQL, MongoDB
-- **Data Tools**: Pandas
+- **Data Tools**: Pandas, Requests,Psycopg2
 - **Cloud**: Google Cloud Platform (BigQuery, Cloud Storage)
-- **Other**: Git, Docker, Linux
+- **Other**: Git, Linux
 
 
