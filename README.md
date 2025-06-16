@@ -3,7 +3,7 @@ Hello there 👋
 I'm Rafael Parra Coelho
 
 🎓 Aspiring Data Engineer | 💻 Python & SQL Enthusiast | ☁️ Learning Cloud & Big Data Tools
-                                     
+        
 🚀 About Me
  
 - 🎓 I'm currently pursuing a Bachelor's degree in Information Systems and learning to become a Data Engineer.
