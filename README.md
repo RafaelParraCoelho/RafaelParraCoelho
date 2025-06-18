@@ -19,5 +19,3 @@ I'm Rafael Parra Coelho
 - **Data Tools**: Pandas, Requests,Psycopg2
 - **Cloud**: Google Cloud Platform (BigQuery, Cloud Storage)
 - **Other**: Git, Linux
-
-
