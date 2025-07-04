@@ -19,3 +19,10 @@ I'm Rafael Parra Coelho
 - **Data Tools**: Pandas, Requests, Psycopg2, BeautifulSoup, Matplotlib, Numpy
 - **Cloud**: Google Cloud Platform (BigQuery, Cloud Storage)
 - **Other**: Git, Linux
+
+🧠 Practical Skills
+
+- 🔎 Web Scraping for automated data collection  
+- 🧹 Data cleaning and analysis with Pandas  
+- 🔗 API interaction and data manipulation using Requests
+
