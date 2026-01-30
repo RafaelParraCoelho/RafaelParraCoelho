@@ -1,21 +1,21 @@
 # Hello there 👋
 I'm **Rafael Parra Coelho**
 
-🎓 **Data Engineer** | 🐍 Python & SQL Specialist | ☁️ Cloud & Big Data Enthusiast
+🎓 **Aspiring Data Engineer** | 🐍 Python & SQL | ☁️ Cloud Enthusiast
 
 ---
 
 ## 🚀 About Me
 
 * 🎓 Currently pursuing a Bachelor's degree in **Information Systems**
-* 📊 Specialized in building **scalable data pipelines** and **ETL/ELT workflows**
-* 🔧 Experienced with **orchestration tools** (Airflow), **distributed processing** (Spark), and **cloud data platforms**
-* 💾 Strong foundation in **database design**, **data modeling**, and **SQL optimization**
-* 🐍 Proficient in **Python** for data engineering tasks: ingestion, transformation, automation, and API development
-* 🌐 Knowledge of **web technologies** to build data-driven applications and dashboards
-* 📈 Passionate about transforming raw data into actionable insights through robust data infrastructure
+* 📊 Focused on **data analysis and data engineering fundamentals**, with hands-on projects
+* 🔧 Experience building **simple data pipelines** and **ETL workflows** using Python and Airflow
+* 💾 Solid foundation in **SQL**, **relational databases**, and data organization concepts
+* 🐍 Proficient in **Python** for data analysis, automation, data transformation, and API consumption
+* 🌐 Knowledge of **web technologies** to support data-driven applications and integrations
+* 📈 Interested in turning raw data into insights through well-structured data processes
 
-My goal is to design and implement **efficient, scalable data architectures** that enable organizations to make data-driven decisions.
+My goal is to grow as a **Data Engineering professional**, contributing to reliable data solutions while continuously learning and improving my technical skills.
 
 ---
 
@@ -36,24 +36,24 @@ My goal is to design and implement **efficient, scalable data architectures** th
 * **Version Control**: Git, GitHub
 * **Additional**: JavaScript, HTML, CSS, C, C++, Linux
 
-
 ---
 
 ## 🧠 Data Engineering Skills
 
-* 🔄 **ETL/ELT Pipeline Development**: Design and implementation of automated data workflows
-* 📥 **Data Ingestion**: Web scraping, API integration, batch and streaming data collection
-* 🧹 **Data Transformation**: Cleaning, normalization, aggregation, and enrichment with Pandas
-* 🗄️ **Database Management**: Schema design, indexing, query optimization, and performance tuning
-* ☁️ **Cloud Data Solutions**: Working with BigQuery for data warehousing and analytics
-* 🔍 **Data Quality**: Validation, monitoring, and error handling in data pipelines
-* 📊 **Analytics Support**: Building data models to support BI and reporting needs
+* 🔄 **ETL/ELT Pipeline Development**: Development of simple and automated data workflows using Python
+* 📥 **Data Ingestion**: Web scraping, API integration, and batch data collection
+* 🧹 **Data Transformation**: Data cleaning, normalization, aggregation, and enrichment with Pandas
+* 🗄️ **Database Management**: Working with relational databases, schema organization, and SQL queries
+* ☁️ **Cloud Data Solutions**: Using BigQuery for analytical queries and data exploration
+* 🔍 **Data Quality**: Basic validation, error handling, and data consistency checks
+* 📊 **Analytics Support**: Preparing datasets to support analysis, dashboards, and reporting
 
 ---
 
 ## 📂 Featured Projects
 
-*(Adicione aqui seus projetos principais de Data Engineering)*
+*(Add here your main Data / Data Engineering projects)*
+
 
 ---
 
