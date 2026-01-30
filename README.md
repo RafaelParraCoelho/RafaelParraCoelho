@@ -22,10 +22,10 @@ My goal is to design and implement **efficient, scalable data architectures** th
 ## 🔧 Tech Stack
 
 ### **Core Data Engineering**
-* **Languages**: Python, SQL
-* **Orchestration**: Apache Airflow
-* **Processing**: Apache Spark
-* **Databases**: PostgreSQL, MongoDB, SQLite
+* **Languages**: Python (data analysis and automation), SQL (queries and joins)
+* **Orchestration**: Apache Airflow (simple pipelines)
+* **Processing**: Apache Spark (concepts and basic usage)
+* **Databases**: PostgreSQL, MongoDB (basic), SQLite
 * **Cloud Platforms**: Google Cloud Platform (BigQuery, Cloud Storage)
 * **Data Tools**: Pandas, NumPy, Psycopg2
 
@@ -35,6 +35,7 @@ My goal is to design and implement **efficient, scalable data architectures** th
 * **Visualization**: Matplotlib, Seaborn
 * **Version Control**: Git, GitHub
 * **Additional**: JavaScript, HTML, CSS, C, C++, Linux
+
 
 ---
 
