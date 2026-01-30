@@ -56,12 +56,4 @@ My goal is to design and implement **efficient, scalable data architectures** th
 
 ---
 
-## 📫 Let's Connect
-
-* 💼 LinkedIn: [your-linkedin]
-* 📧 Email: your.email@example.com
-* 🐙 GitHub: [@your-username](https://github.com/your-username)
-
----
-
 💡 *"From failure to success, from success to the next attempt"*
