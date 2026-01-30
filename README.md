@@ -1,90 +1,67 @@
-Hello there 👋
-
+# Hello there 👋
 I'm **Rafael Parra Coelho**
 
-🎓 Aspiring **Full Stack Developer** with a strong **Data Engineering** background | 💻 Python, SQL & JavaScript | ☁️ Learning Cloud & Big Data Tools
+🎓 **Data Engineer** | 🐍 Python & SQL Specialist | ☁️ Cloud & Big Data Enthusiast
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 I'm currently pursuing a Bachelor's degree in **Information Systems**.
-* 🧩 Building a solid foundation in **Data Engineering**, while actively expanding into **Full Stack Development**.
-* 🐍 Strong experience with **Python** and **SQL**, applied to data pipelines, APIs, and automation.
-* 🌐 Growing my skills in **Front-end and Back-end web development**, creating complete applications from database to UI.
-* 🛠️ Working with tools like **Airflow**, **Spark**, **PostgreSQL**, and **BigQuery**.
-* 📚 Always learning, improving my skills, and building real-world projects.
+* 🎓 Currently pursuing a Bachelor's degree in **Information Systems**
+* 📊 Specialized in building **scalable data pipelines** and **ETL/ELT workflows**
+* 🔧 Experienced with **orchestration tools** (Airflow), **distributed processing** (Spark), and **cloud data platforms**
+* 💾 Strong foundation in **database design**, **data modeling**, and **SQL optimization**
+* 🐍 Proficient in **Python** for data engineering tasks: ingestion, transformation, automation, and API development
+* 🌐 Knowledge of **web technologies** to build data-driven applications and dashboards
+* 📈 Passionate about transforming raw data into actionable insights through robust data infrastructure
 
-My goal is to become a **Full Stack Developer** capable of designing, developing, and maintaining scalable applications, while leveraging my data background to build data-driven solutions.
+My goal is to design and implement **efficient, scalable data architectures** that enable organizations to make data-driven decisions.
 
 ---
 
 ## 🔧 Tech Stack
 
-* **Languages**: Python, SQL, JavaScript, HTML, CSS, C, C++
-* **Back-end**: Python, APIs (REST), Node.js (learning)
-* **Front-end**: HTML5, CSS3, JavaScript (ES6+)
+### **Core Data Engineering**
+* **Languages**: Python, SQL
+* **Orchestration**: Apache Airflow
+* **Processing**: Apache Spark
 * **Databases**: PostgreSQL, MongoDB, SQLite
-* **Data Tools**: Pandas, Requests, Psycopg2, BeautifulSoup, Matplotlib, NumPy
-* **Cloud**: Google Cloud Platform (BigQuery, Cloud Storage)
-* **Other**: Git, Linux
+* **Cloud Platforms**: Google Cloud Platform (BigQuery, Cloud Storage)
+* **Data Tools**: Pandas, NumPy, Psycopg2
+
+### **Development & Integration**
+* **APIs**: REST API development and integration (Requests, Flask/FastAPI)
+* **Web Scraping**: BeautifulSoup, Selenium
+* **Visualization**: Matplotlib, Seaborn
+* **Version Control**: Git, GitHub
+* **Additional**: JavaScript, HTML, CSS, C, C++, Linux
 
 ---
 
-## 🧠 Practical Skills
+## 🧠 Data Engineering Skills
 
-* 🔎 Web scraping for automated data collection
-* 🧹 Data cleaning, transformation, and analysis with Pandas
-* 🔗 API integration and data manipulation
-* 🧱 Database modeling and SQL querying
-* 🌐 Building and integrating front-end and back-end applications
+* 🔄 **ETL/ELT Pipeline Development**: Design and implementation of automated data workflows
+* 📥 **Data Ingestion**: Web scraping, API integration, batch and streaming data collection
+* 🧹 **Data Transformation**: Cleaning, normalization, aggregation, and enrichment with Pandas
+* 🗄️ **Database Management**: Schema design, indexing, query optimization, and performance tuning
+* ☁️ **Cloud Data Solutions**: Working with BigQuery for data warehousing and analytics
+* 🔍 **Data Quality**: Validation, monitoring, and error handling in data pipelines
+* 📊 **Analytics Support**: Building data models to support BI and reporting needs
 
 ---
 
-📌 *Currently focused on evolving into a Full Stack profile, combining data engineering, back-end development, and modern front-end technologies.*
+## 📂 Featured Projects
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+*(Adicione aqui seus projetos principais de Data Engineering)*
 
-###
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelParraCoelho&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RafaelParraCoelho&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RafaelParraCoelho&radius=16&theme=merko&area=true&order=5" height="300" alt="activity-graph graph"  />
-</div>
+## 📫 Let's Connect
 
-###
+* 💼 LinkedIn: [your-linkedin]
+* 📧 Email: your.email@example.com
+* 🐙 GitHub: [@your-username](https://github.com/your-username)
 
-<img src="https://raw.githubusercontent.com/RafaelParraCoelho/RafaelParraCoelho/output/snake.svg" alt="Snake animation" />
+---
 
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/rafael-parra-coelho-8054532a8/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-</div>
-
-###
+💡 *"From failure to success, from success to the next attempt"*
