@@ -50,11 +50,4 @@ My goal is to grow as a **Data Engineering professional**, contributing to relia
 
 ---
 
-## 📂 Featured Projects
-
-*(Add here your main Data / Data Engineering projects)*
-
-
----
-
 💡 *"From failure to success, from success to the next attempt"*
