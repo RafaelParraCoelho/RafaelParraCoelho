@@ -1,64 +1,87 @@
 # Hello there 👋
-I'm **Rafael Parra Coelho**
-🎓 **Junior Data Analyst & Aspiring Data Engineer** | 🐍 Python & SQL | 🗄️ Database Enthusiast | ☁️ Cloud Learner
+I'm Rafael Parra Coelho
+
+☁️ IT Analyst | Python Automation | AWS Cloud Learner | Linux & SQL
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 Pursuing a Bachelor's degree in **Information Systems** (Anhembi Morumbi, 2023–2027)
-- 📊 1+ year of hands-on experience in **data analysis, database modeling, and ETL automation** in corporate environments
-- 🗄️ Passionate about **relational databases**, SQL optimization, and data quality — open to both **Data Analyst** and **DBA** paths
-- 🔧 Experience building **ETL pipelines**, automating data workflows, and generating **KPIs for PMO teams**
-- 🐍 Proficient in **Python** for data analysis, automation, transformation, and web scraping
-- 📈 Focused on turning raw data into reliable, well-structured information that drives real decisions
+- 🎓 Pursuing a Bachelor's degree in Information Systems (Anhembi Morumbi, 2023–2027)
+- 💼 Experience in technical support, systems operations, and data automation in corporate environments
+- 🐍 Working with Python and SQL to automate workflows, validate operational data, and support decision-making processes
+- ☁️ Currently transitioning into Cloud & DevOps, focusing on AWS, Linux, Docker, and infrastructure automation
+- 🔧 Interested in automation, cloud architecture, data pipelines, and scalable systems
+- 📚 Currently studying for the AWS Certified Solutions Architect Associate (SAA-C03) certification
+- 📚 Continuously building hands-on projects involving AWS, ETL workflows, APIs, and automation tools
 
-My goal is to grow as a **Data professional** — whether in Data Analysis, Data Engineering, or Database Administration — contributing to robust and trustworthy data solutions.
+My goal is to grow as a Cloud & Automation professional, combining infrastructure, scripting, and data-driven solutions to build reliable and scalable systems.
 
 ---
 
 ## 💼 Experience Highlights
 
-- Developed **Python and SQL automations** to consolidate and validate operational data, reducing manual rework for corporate teams
-- Modeled **relational databases** and structured data pipelines to deliver KPIs directly supporting PMO decision-making
-- Operated and maintained **6 corporate platforms simultaneously**: Protheus, Salesforce, Zendesk, Limber-Card, WayV, and Volpe/Vixen
-- Built **exploratory data analyses (EDA)** and reports to identify inconsistencies and patterns in operational datasets
+- Developed Python and SQL automations to validate and consolidate operational data
+- Supported corporate systems and technical operations in production environments
+- Built ETL workflows and analytical pipelines for KPI generation and reporting
+- Worked with platforms such as Protheus, Salesforce, Zendesk, and Volpe
+- Created data validation and monitoring tools focused on reliability and automation
 
 ---
 
 ## 🔧 Tech Stack
 
-### **Databases & SQL**
-- **Relational**: PostgreSQL, SQLite
-- **NoSQL**: MongoDB (basic)
-- **Skills**: Complex queries, JOINs, CTEs, subqueries, schema modeling, data validation
+### Cloud & Infrastructure
+- AWS (SAA-C03 in progress)
+- Linux
+- Docker (learning)
+- Git & GitHub
 
-### **Data Analysis & Engineering**
-- **Languages**: Python, SQL, R
-- **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- **ETL & Pipelines**: Python automation, Apache Airflow (learning)
-- **BI & Visualization**: Power BI, Tableau, Excel
+### Programming & Automation
+- Python
+- SQL
+- REST APIs
+- Web Scraping
+- ETL Automation
 
-### **Cloud & Big Data**
-- **GCP**: BigQuery, Cloud Storage
-- **Azure**: Fundamentals (in progress)
+### Data & Analytics
+- PostgreSQL
+- Pandas
+- Power BI
+- Excel
+- BigQuery
 
-### **Development & Integration**
-- **APIs**: REST API integration (Requests, Flask/FastAPI)
-- **Web Scraping**: BeautifulSoup, Selenium
-- **Version Control**: Git, GitHub
-- **Other**: JavaScript, HTML, CSS, C, C++, Linux
+### Tools & Platforms
+- Protheus
+- Salesforce
+- Zendesk
+- VS Code
 
 ---
 
 ## 🧠 Core Skills
 
-- 🔄 **ETL/ELT Pipelines**: Automated data workflows using Python and SQL
-- 🗄️ **Database Management**: Relational modeling, schema organization, query optimization
-- 🧹 **Data Quality**: Validation, error handling, null/duplicate detection, consistency checks
-- 📥 **Data Ingestion**: Web scraping, API integration, batch data collection
-- 📊 **Analytics Support**: KPI generation, EDA, dashboards, and reporting
-- ☁️ **Cloud Data**: BigQuery for analytical queries, Azure fundamentals
+- 🔄 ETL/ELT Pipelines
+- ☁️ Cloud Fundamentals
+- 🐍 Python Automation
+- 🗄️ SQL & Relational Databases
+- 📊 KPI Generation & Reporting
+- 🔧 Technical Support & Systems Operations
+- 📥 API Integration & Data Collection
+- 🧹 Data Validation & Monitoring
+- 🐧 Linux Environment
+- 🔀 Version Control with Git/GitHub
+
+---
+
+## 📌 Current Focus
+
+- AWS Cloud Architecture
+- Docker & Containers
+- Infrastructure Automation
+- CI/CD Fundamentals
+- Cloud-Based Data Pipelines
+- Linux Administration
 
 ---
 
